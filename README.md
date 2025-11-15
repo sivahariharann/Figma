@@ -34,7 +34,7 @@ Figma
 
 ## CODE:
 '''
-# PAGE-1
+ PAGE-1
 <div class="container--0-">
   <img
     src="data:image/png"/>
@@ -70,9 +70,9 @@ Figma
   <div class="text-0-1-7">PASSWORD</div>
   <div class="text-0-1-8">LOGIN</div>
   <div class="text-0-1-9">Together, we can make a difference.</div>
-</div>
+</div><br>
 
-# PAGE-2
+ PAGE-2
 <div class="container--0-">
   <img
     src="data:image/png"
@@ -113,8 +113,8 @@ Figma
   font-weight: 400;
   text-align: left;
   vertical-align: top;
-}
-# PAGE-3
+}<br>
+ PAGE-3
 <div class="container--0-">
   <img
     src="data:image/png"/>
@@ -295,8 +295,8 @@ Figma
   font-weight: 400;
   text-align: left;
   vertical-align: top;
-}
-# PAGE-4
+}<br>
+ PAGE-4
 <div class="container--0-">
   <img
     src="data:image/png"/>
