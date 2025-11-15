@@ -33,7 +33,7 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
-'''
+```
  PAGE-1
 <div class="container--0-">
   <img
@@ -349,8 +349,7 @@ Figma
   text-align: left;
   vertical-align: top;
 }
-
-'''
+```
 ## OUTPUT:
 ![alt text](<SS Figma.jpg>)
 
